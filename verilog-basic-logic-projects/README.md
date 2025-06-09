@@ -40,7 +40,4 @@ vvp sim.out
 
 ---
 
-## 💡 Author
 
-Created by Surya Prakash Tamma  
-📧 n200122@rguktn.ac.in
